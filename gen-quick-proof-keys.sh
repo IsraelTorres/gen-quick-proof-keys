@@ -46,7 +46,7 @@ echo -en "Response Key:\n"
 echo -en "Second:\t$middl\n"
 echo -en "### Stop Public Response ###\n"
 echo -en "\n\n"
-echo -en "!!! DISCLOSE BELOW ONLY WHEN WITNESSES ARE READ !!!"
+echo -en "!!! DISCLOSE BELOW ONLY WHEN WITNESSES ARE READY !!!"
 echo -en "\n\n"
 echo -en "### Begin Private Solution ###\n"
 echo -en "Plain\tSHA-256\n"
@@ -75,7 +75,7 @@ echo -en "### Stop Private Solution ###\n"
 # ### Stop Public Response ###
 #
 #
-# !!! DISCLOSE BELOW ONLY WHEN WITNESSES ARE READ !!!
+# !!! DISCLOSE BELOW ONLY WHEN WITNESSES ARE READY !!!
 #
 # ### Begin Private Solution ###
 # Plain	SHA-256
